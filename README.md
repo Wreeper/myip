@@ -5,8 +5,8 @@ This isn't rocket science. The simplest way to use it is from the index. (first 
 
 All you have to do is to send a GET request a.k.a just visit the URL in your browser.
 
-https://myip.wreeper.top/ -> will return the ip address in plain text response
+https://myip.wreeper.com/ -> will return the ip address in plain text response
 
-https://myip.wreeper.top/json/ -> will return the ip address in JSON response (for those who want it)
+https://myip.wreeper.com/json/ -> will return the ip address in JSON response (for those who want it)
 
-https://myip.wreeper.top/javascript/ -> will return the ip address in a JavaScript variable (useful for client-side websites, maybe?)
+https://myip.wreeper.com/javascript/ -> will return the ip address in a JavaScript variable (useful for client-side websites, maybe?)
